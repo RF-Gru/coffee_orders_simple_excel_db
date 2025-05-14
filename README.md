@@ -30,8 +30,8 @@ The design includes Pivot Tables, Pivot Charts, and interactive elements such as
   - Currency formatting for Unit Price and Sales
   - Decimal formatting for Size (with `"kg"` unit)
 - **Data Cleaning**:
-  - Removed duplicates
-  - Converted data range into a structured Excel Table
+  - Checked for duplicates
+  - Converted range into an Excel Table
 - **Data Analysis**:
   - Built Pivot Tables and Pivot Charts
   - Added slicers and a timeline for user-friendly interactivity
@@ -53,7 +53,7 @@ This project demonstrates my ability to:
 - Transform and clean raw transactional data
 - Use Excel functions to enrich datasets
 - Build a concise, interactive dashboard to deliver insights
-- Present information clearly for business decision-making
+- Present information for business decision-making
 
 ---
 
