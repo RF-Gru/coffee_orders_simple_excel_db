@@ -1,4 +1,4 @@
-# coffee_orders_simple_db
+# coffee_orders_simple_excel_db
 
 # ☕ Coffee Orders Dashboard
 
