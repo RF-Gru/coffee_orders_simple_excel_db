@@ -68,4 +68,4 @@ I'm an aspiring data analyst with a foundation in Excel, SQL, Tableau, and Pytho
 
 Got suggestions or questions? Feel free to reach out or open an issue. I’m always looking to grow and improve.
 
-v
+
